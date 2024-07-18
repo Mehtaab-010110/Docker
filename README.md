@@ -20,4 +20,3 @@ The project not only reinforced my technical skills in using Docker and Docker C
 ## Future Directions
 I plan to extend this knowledge to Kubernetes for orchestration of larger deployments and explore continuous integration/continuous deployment (CI/CD) pipelines to automate deployments.
 
-Thank you for the opportunity to learn and grow through these practical challenges.
